@@ -2,22 +2,21 @@
 
 <!-- ==================== RECRUITER-READY PROFILE HEADER ==================== -->
 <a href="https://github.com/ayanhackspro">
-  <img src="https://github.com/ayanhackspro.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #00F5FF; box-shadow: 0 4px 20px rgba(0, 245, 255, 0.3);" alt="Ayan Hussain Avatar" />
+  <img src="https://github.com/ayanhackspro.png" width="115" height="115" alt="Ayan Hussain" />
 </a>
 
 # Ayan Hussain
 
 ### ⚡ Frontend & Full-Stack Systems Engineer
-*Specializing in High-Performance Web Applications, Cloud Infrastructure & Interactive Systems*
+*Building High-Performance Web Applications, Cloud Infrastructure & Interactive Systems*
 
 <br/>
 
 <!-- ==================== STATUS & CREDENTIAL BADGES ==================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-FRONTEND%20%7C%20FULL--STACK-00F5FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Role" />
-  <img src="https://img.shields.io/badge/STACK-NEXT.JS%20%E2%80%A2%20TYPESCRIPT%20%E2%80%A2%20LINUX-7928CA?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Stack" />
+  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20ENGINEER-00F5FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Role" />
   <img src="https://img.shields.io/badge/HONOR-SIH%20FINALIST-FF0080?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="SIH Finalist" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00FF66?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF66?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Status" />
 </p>
 
 <!-- ==================== DYNAMIC TYPING SVG ==================== -->
@@ -86,7 +85,7 @@
 
 ---
 
-<!-- ==================== INTERACTIVE TERMINAL ACCORDIONS ==================== -->
+<!-- ==================== INTERACTIVE COMMAND DECK ==================== -->
 
 <div align="center">
   <h2>🕹️ Interactive Command Deck</h2>
@@ -228,11 +227,6 @@ $ echo "Let's build something phenomenal together!"
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanhackspro&theme=tokyonight&hide_border=true&background=0D1117&fire=00F5FF&ring=7928CA&currStreakNum=00F5FF" height="175" alt="Streak Stats" />
   </p>
 
-  <!-- 3D Profile Trophy Case -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayanhackspro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophy Rack" />
-  </p>
-
 </div>
 
 ---
@@ -246,13 +240,13 @@ $ echo "Let's build something phenomenal together!"
   <br/>
 
   <a href="mailto:ayanhackss@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-ayanhackss%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-ayanhackss%40gmail.com-EA4335?style=for-the-badge&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ayanhackspro">
-    <img src="https://img.shields.io/badge/GITHUB-ayanhackspro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-ayanhackspro-181717?style=for-the-badge&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://t.me/ayanhacks">
-    <img src="https://img.shields.io/badge/TELEGRAM-ayanhacks-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-ayanhacks-26A5E4?style=for-the-badge&logoColor=white" alt="Telegram" />
   </a>
 
   <br/><br/>
