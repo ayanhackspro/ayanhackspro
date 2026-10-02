@@ -1,103 +1,88 @@
 <div align="center">
 
-<!-- ==================== HEADER ANIMATION ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=AYAN%20HUSSAIN&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Architect%20%7C%20Cloud%20%26%20DevOps%20%7C%20System%20Engineer%20%E2%9A%A1&descAlignY=62&descAlign=50" width="100%" alt="Ayan Hussain Banner" />
-
-<!-- ==================== DYNAMIC TYPING SVG ==================== -->
+<!-- ==================== RECRUITER-READY PROFILE HEADER ==================== -->
 <a href="https://github.com/ayanhackspro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%3E+Initializing+AYAN-OS+v3.8+Kernel...;%3E+Architecting+Scalable+Cloud+%26+Full-Stack+Systems...;%3E+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+DevOps+%E2%80%A2+Linux;%3E+Building+Next-Gen+Developer+Tools+%26+AudioKit;%3E+Turning+Complex+Problems+into+Elegant+Code." alt="Typing SVG" />
+  <img src="https://github.com/ayanhackspro.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #00F5FF; box-shadow: 0 4px 20px rgba(0, 245, 255, 0.3);" alt="Ayan Hussain Avatar" />
 </a>
+
+# Ayan Hussain
+
+### ⚡ Frontend & Full-Stack Systems Engineer
+*Specializing in High-Performance Web Applications, Cloud Infrastructure & Interactive Systems*
 
 <br/>
 
-<!-- ==================== STATUS PILLS ==================== -->
+<!-- ==================== STATUS & CREDENTIAL BADGES ==================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%97%8F-00FF66?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Status Online" />
-  <img src="https://img.shields.io/badge/SECURITY-CLEARED%20%E2%9C%93-00e5ff?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Security Cleared" />
-  <img src="https://img.shields.io/badge/ROLE-SYSTEMS%20ARCHITECT-7928CA?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Role" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-FF0080?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Location" />
+  <img src="https://img.shields.io/badge/ROLE-FRONTEND%20%7C%20FULL--STACK-00F5FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Role" />
+  <img src="https://img.shields.io/badge/STACK-NEXT.JS%20%E2%80%A2%20TYPESCRIPT%20%E2%80%A2%20LINUX-7928CA?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Stack" />
+  <img src="https://img.shields.io/badge/HONOR-SIH%20FINALIST-FF0080?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="SIH Finalist" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00FF66?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Status" />
 </p>
+
+<!-- ==================== DYNAMIC TYPING SVG ==================== -->
+<a href="https://github.com/ayanhackspro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Building+production-grade+web+architectures+with+Next.js+%26+TypeScript;Engineering+resilient+cloud+systems%2C+server+daemons+%26+DevOps;Architecting+AudioKit+DSP+engines+%26+interactive+3D+visualizations;Turning+complex+technical+challenges+into+flawless+digital+products." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- ==================== RECRUITER SIGNAL MATRIX ==================== -->
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="25%">💼 <b>Role Fit</b></th>
+      <th align="center" width="25%">🎯 <b>Core Arsenal</b></th>
+      <th align="center" width="25%">🏆 <b>Public Proof</b></th>
+      <th align="center" width="25%">⚡ <b>Delivery Momentum</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <b>Frontend / Full-Stack Engineer</b><br/>
+        <sub>Interface craft & resilient backends</sub>
+      </td>
+      <td align="center">
+        <b>Next.js • TypeScript • Cloud</b><br/>
+        <sub>Node.js, Linux, Nginx, Docker</sub>
+      </td>
+      <td align="center">
+        <b>Smart India Hackathon Finalist</b><br/>
+        <sub>AudioKit DSP, 3D BhuMap, SSHDock</sub>
+      </td>
+      <td align="center">
+        <b>Active Open-Source Builder</b><br/>
+        <sub>Shipping clean, production-ready code</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 ---
 
-<!-- ==================== 3D ISOMETRIC ASCII ART SHOWCASE ==================== -->
+<!-- ==================== ENGINEERING SIGNAL & SNAPSHOT ==================== -->
 
-```text
-       ___           ___           ___           ___     
-      /\  \         |\__\         /\  \         /\__\    
-     /::\  \        |:|  |       /::\  \       /::|  |   
-    /:/\:\  \       |:|  |      /:/\:\  \     /:|:|  |   
-   /::\~\:\  \      |:|__|__   /::\~\:\  \   /:/|:|  |__ 
-  /:/\:\ \:\__\     /::::\__\ /:/\:\ \:\__\ /:/ |:| /\__\
-  \/__\:\/:/  /    /:/~~/     \/__\:\/:/  / \/__|:|/:/  /
-       \::/  /    /:/  /           \::/  /      |:/:/  / 
-       /:/  /     \/__/            /:/  /       |::/  /  
-      /:/  /                      /:/  /        /:/  /   
-      \/__/                       \/__/         \/__/    
-      ___           ___           ___           ___           ___     
-     /\__\         /\  \         /\  \         /\__\         /\  \    
-    /:/__/_       /::\  \       /:/  /        /:/ _/_       /::\  \   
-   /:/ /\  \     /:/\:\  \     /:/  /        /:/ /\__\     /:/\ \  \  
-  /:/__\ \  \   /::\~\:\  \   /:/  /  ___   /:/ /:/ _/_   _\:\~\ \  \ 
-  \:\  \ \__\ /:/\:\ \:\__\ /:/__/  /\__\ /:/_/:/ /\__\ /\ \:\ \ \__\
-   \:\  \/__/ \/__\:\/:/  / \:\  \ /:/  / \:\/:/ /:/  / \:\ \:\ \/__/
-    \:\  \         \::/  /   \:\  /:/  /   \::/_/:/  /   \:\ \:\__\  
-     \:\  \        /:/  /     \:\/:/  /     \:\/:/  /     \:\/:/  /  
-      \:\__\      /:/  /       \::/  /       \::/  /       \::/  /   
-       \/__/      \/__/         \/__/         \/__/         \/__/    
-            ___           ___           ___     
-           /\  \         /\  \         /\  \    
-          /::\  \       /::\  \       /::\  \   
-         /:/\:\  \     /:/\:\__\     /:/\:\  \  
-        /::\~\:\  \   /:/ /:/  /    /:/  \:\  \ 
-       /:/\:\ \:\__\ /:/_/:/__/___ /:/__/ \:\__\
-       \/__\:\/:/  / \:\/:::::/  / \:\  \ /:/  /
-            \::/  /   \::/~~/~~~~   \:\  /:/  / 
-            /:/  /     \:\  \        \:\/:/  /  
-           /:/  /       \:\__\        \::/  /   
-           \/__/         \/__/         \/__/    
-```
+### 🎯 Engineering Signal & Highlights
 
-```text
-               .________________________________________________.
-               |.----------------------------------------------.|
-               || [ AYAN HUSSAIN ] - SYSTEM STATUS: ONLINE     ||
-               ||                                              ||
-               ||  > IDENTITY: Ayan Hussain (ayanhackspro)     ||
-               ||  > DOMAIN  : Full-Stack | Cloud | Automation ||
-               ||  > KERNEL  : Linux x86_64 / Debian / Darwin  ||
-               ||  > UPTIME  : 99.999% High Availability       ||
-               ||  > SHELL   : zsh / bash / pwsh / async node  ||
-               ||                                              ||
-               ||  [ 3D ISOMETRIC CYBER-CORE MATRIX ]:         ||
-               ||          /\                                  ||
-               ||         /  \                                 ||
-               ||        / /\ \        "Building resilient,    ||
-               ||       / /  \ \        high-throughput        ||
-               ||      / / /\ \ \       systems with zero      ||
-               ||     / / /  \ \ \      friction & precision." ||
-               ||    /_/ /____\ \_\                            ||
-               ||    \ \ \____/ / /                            ||
-               ||     \ \ \  / / /                             ||
-               ||      \ \ \/ / /                              ||
-               ||       \ \  / /                               ||
-               ||        \/__\/                                ||
-               ||______________________________________________||
-               |'----------------------------------------------'|
-            .-"                                                  "-.
-          .-'  .------------------------------------------------.  '-.
-         /   .-'                                                '-.   \
-        /   /  [ESC] [F1][F2][F3][F4] [F5][F6][F7][F8] [PRT][DEL]  \   \
-       /   /   [`][1][2][3][4][5][6][7][8][9][0][-][=][ BACKSPACE ] \   \
-      /   /    [TAB] [Q][W][E][R][T][Y][U][I][O][P][{][}] [ ENTER ] \   \
-     /   /     [CAPS] [A][S][D][F][G][H][J][K][L][;]['][  ENTER  ]   \   \
-    /   /      [SHIFT]  [Z][X][C][V][B][N][M][,][.][/] [  SHIFT  ]    \   \
-   /   /       [CTRL][WIN][ALT]  [   SPACEBAR   ]  [ALT][WIN][MENU]     \   \
-  /   '------------------------------------------------------------------'   \
- '----------------------------------------------------------------------------'
-```
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h4>💡 What I Bring to Engineering Teams</h4>
+      <ul>
+        <li><b>Interface Craft & UX:</b> Deep experience building ultra-responsive, accessible, and fluid web apps with Next.js (App Router), React, TypeScript, and TailwindCSS.</li>
+        <li><b>Systems & Infrastructure:</b> Hands-on administration of Debian/Ubuntu environments, Nginx reverse proxies, SSL automation, systemd daemons, and containerized Docker stacks.</li>
+        <li><b>Complex Domain Engineering:</b> Built specialized engines including in-browser Audio DSP tools (WebAudio/FFmpeg) and 3D Geospatial mapping (Three.js/WebGL/Leaflet).</li>
+        <li><b>Engineering Rigor:</b> Strict typing, component modularity, zero-dependency minimalism where appropriate, and clean documentation.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanhackspro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,7 +90,7 @@
 
 <div align="center">
   <h2>🕹️ Interactive Command Deck</h2>
-  <p><i>Click on any subsystem below to decrypt telemetry, projects, and architecture logs:</i></p>
+  <p><i>Click on any subsystem below to explore telemetry, project architectures, and developer logs:</i></p>
 </div>
 
 <details open>
@@ -240,10 +225,6 @@ $ echo "Let's build something phenomenal together!"
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ayanhackspro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7928CA&text_color=C9D1D9" height="175" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanhackspro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" height="175" alt="Top Languages" />
-  </p>
-
-  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanhackspro&theme=tokyonight&hide_border=true&background=0D1117&fire=00F5FF&ring=7928CA&currStreakNum=00F5FF" height="175" alt="Streak Stats" />
   </p>
 
@@ -259,7 +240,7 @@ $ echo "Let's build something phenomenal together!"
 <!-- ==================== CONNECT MATRIX ==================== -->
 
 <div align="center">
-  <h2>🌐 Connect With The Neural Network</h2>
+  <h2>🌐 Connect With Me</h2>
   <p><i>Always open to exploring new engineering opportunities, open-source ventures, and innovative ideas.</i></p>
 
   <br/>
@@ -278,10 +259,5 @@ $ echo "Let's build something phenomenal together!"
 
   <!-- Profile Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=ayanhackspro&style=for-the-badge&color=00f5ff" alt="Profile Views" />
-
-  <br/><br/>
-
-  <!-- ==================== FOOTER WAVE ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
